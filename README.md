@@ -37,3 +37,29 @@ User Input → Agent Router → Domain Model → Output
 ## ▶ How to Run
 
 1. Clone this repository:
+   
+https://github.com/your-username/AI-Agent-Multi-Domain-Automation.git
+
+2. Open the notebook:
+
+3. Run all cells to see live demo.
+
+---
+
+## 📊 Demonstration
+
+The notebook demonstrates:
+- Text summarization output
+- Sentiment analysis results
+- Image classification output
+
+---
+
+## 🔗 Kaggle Notebook
+[Click here to view Kaggle Demo](PASTE_YOUR_KAGGLE_LINK_HERE)
+
+---
+
+## 👨‍🎓 Author
+Ishant Gupta  
+B.Com Graduate | AI & Automation Enthusiast
