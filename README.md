@@ -56,7 +56,7 @@ The notebook demonstrates:
 ---
 
 ## 🔗 Kaggle Notebook
-[Click here to view Kaggle Demo](PASTE_YOUR_KAGGLE_LINK_HERE)
+[Click here to view Kaggle Demo](https://www.kaggle.com/code/dubbedguru/ai-agent-multi-domain-task-automation)
 
 ---
 
