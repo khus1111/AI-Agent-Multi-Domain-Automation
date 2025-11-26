@@ -37,12 +37,11 @@ User Input → Agent Router → Domain Model → Output
 ## ▶ How to Run
 
 1. Clone this repository:
-   
-https://github.com/your-username/AI-Agent-Multi-Domain-Automation.git
+       httpsttpsttps://github.com/khus1111/AI-Agent-Multi-Domain-Automation.git
 
-2. Open the notebook:
+3. Open the notebook:
 
-3. Run all cells to see live demo.
+4. Run all cells to see live demo.
 
 ---
 
